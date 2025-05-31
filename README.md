@@ -11,7 +11,7 @@ This project implements a temperature monitoring system using ESP8266 microcontr
 1. DS18B20 Temperature Sensor
 2. BMP280 and DHT11 Sensors (Temperature, Humidity, and Pressure)
 
-## Структура Проекта
+## Project Structure
 
 ```
 Temperature-sensor/
