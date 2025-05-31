@@ -24,6 +24,7 @@ Temperature-sensor/
 |       ├── main.ino  # Основной код приложения
 |       ├── index.h  # Код веб страницы
 |       ├── index.html  # Код веб страницы для удобства верстки
+├── images/                # images for readme
 ├── READMERU.md            # Этот файл
 ├── README.md              # Основной README
 └── LICENCE                # Лицензия
